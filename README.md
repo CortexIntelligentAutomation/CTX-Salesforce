@@ -1,4 +1,4 @@
-# CTX-Salesforce Cortex Module
+# CTX-Salesforce
 
 The module allows users to perform the following functionality:
 1) Generate details allowing connection to a Salesforce instance.
