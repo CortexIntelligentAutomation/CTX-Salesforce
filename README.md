@@ -30,7 +30,7 @@ The  module requires the following Cortex OCIs:
 
 ### Files
 The CTX-Salesforce module requires the following files:
-* [CTX-Salesforce.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Salesforce/releases/download/<Module Version>/CTX-Salesforce.studiopkg)
+* [CTX-Salesforce.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Salesforce/releases/download/<Module Version>CTX-Salesforce.studiopkg)
 
 ### Other
 The CTX-Salesforce module has the following additional requirements which are explained in detail in the [Installation section](#Installation):<Other Requirements>
